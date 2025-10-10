@@ -11,7 +11,7 @@ const Header = () => {
   return (
     <div className="navbar bg-base-100 shadow-sm sticky top-0 z-50">
       <div className="container mx-auto w-full px-4">
-        {/* 3-column layout:right button */}
+
         <div className="grid grid-cols-3 items-center">
           {/* LEFT: Logo + name */}
           <div className="flex items-center gap-2">
@@ -59,7 +59,7 @@ const Header = () => {
           </div>
         </div>
 
-        {/* mobile nav: */}
+        
         <div className="md:hidden mt-2">
           <nav className="flex justify-center gap-6 text-[15px]">
             <NavLink to="/" className={navClass}>
