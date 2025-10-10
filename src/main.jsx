@@ -15,7 +15,7 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <RootLayout />,
-    // root-rendering/loader error
+    // root-rendering/error
     errorElement: <Error404 />,
 
     children: [
@@ -24,7 +24,7 @@ const router = createBrowserRouter([
       { path: "apps/:id", element: <AppDetails /> },
       { path: "installation", element: <Installations /> },
 
-      // UNMATCHED child routes => 404 (header/footer)
+      // UNMATCHED child routes => 404 (header+footer)
       { path: "*", element: <Error404 /> },
     ],
   },
