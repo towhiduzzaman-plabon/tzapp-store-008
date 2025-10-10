@@ -6,11 +6,11 @@ import fbImg from "../assets/fb.png";
 import xImg from "../assets/x.png";
 import linkedImg from "../assets/linked.png";
 
-// toastify container & css
+// toastify container and css
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
-/* ------------------ Mobile Menu ------------------ */
+/* ------------------ Mobile Menu bar------------------ */
 function MobileMenu() {
   const [open, setOpen] = useState(false);
 
