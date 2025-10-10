@@ -1,0 +1,363 @@
+[
+  {
+    "id": 1,
+    "image": "../assets/demo-app (1).webp",
+    "title": "Forest: Focus For Productivity",
+    "companyName": "Green Minds",
+    "description": "Gamified Pomodoro timer that helps you stay focused.",
+    "size": 46,
+    "reviews": 1200,
+    "ratingAvg": 4.7,
+    "downloads": 8000000,
+    "ratings": [
+      {"name": "1 star", "count": 120},
+      {"name": "2 star", "count": 160},
+      {"name": "3 star", "count": 340},
+      {"name": "4 star", "count": 2200},
+      {"name": "5 star", "count": 6180}
+    ]
+  },
+  {
+    "id": 2,
+    "image": "../assets/demo-app (2).webp",
+    "title": "SmPlan: ToDo List With Reminder",
+    "companyName": "PremiumSoft",
+    "description": "Plan your day with reminders and recurring tasks.",
+    "size": 28,
+    "reviews": 540,
+    "ratingAvg": 4.9,
+    "downloads": 54000,
+    "ratings": [
+      {"name": "1 star", "count": 10},
+      {"name": "2 star", "count": 15},
+      {"name": "3 star", "count": 40},
+      {"name": "4 star", "count": 120},
+      {"name": "5 star", "count": 355}
+    ]
+  },
+  {
+    "id": 3,
+    "image": "../assets/demo-app (3).webp",
+    "title": "FLIP: Focus Timer For Study",
+    "companyName": "StudyLabs",
+    "description": "Minimal study timer with statistics and streaks.",
+    "size": 19,
+    "reviews": 906,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      {"name": "1 star", "count": 70},
+      {"name": "2 star", "count": 90},
+      {"name": "3 star", "count": 200},
+      {"name": "4 star", "count": 240},
+      {"name": "5 star", "count": 306}
+    ]
+  },
+  {
+    "id": 4,
+    "image": "../assets/demo-app (4).webp",
+    "title": "Pomotori: Cute Pomodoro Timer",
+    "companyName": "Tiny Tomato",
+    "description": "Cute UI with sessions, breaks and focus stats.",
+    "size": 22,
+    "reviews": 380,
+    "ratingAvg": 4.8,
+    "downloads": 730000,
+    "ratings": [
+      {"name": "1 star", "count": 20},
+      {"name": "2 star", "count": 30},
+      {"name": "3 star", "count": 70},
+      {"name": "4 star", "count": 120},
+      {"name": "5 star", "count": 140}
+    ]
+  },
+  {
+    "id": 5,
+    "image": "../assets/demo-app (5).webp",
+    "title": "Morning Habits: Daily Routine",
+    "companyName": "BetterDays",
+    "description": "Build morning routines with streaks and reminders.",
+    "size": 31,
+    "reviews": 610,
+    "ratingAvg": 4.5,
+    "downloads": 980000,
+    "ratings": [
+      {"name": "1 star", "count": 40},
+      {"name": "2 star", "count": 60},
+      {"name": "3 star", "count": 120},
+      {"name": "4 star", "count": 180},
+      {"name": "5 star", "count": 210}
+    ]
+  },
+  {
+    "id": 6,
+    "image": "../assets/demo-app (6).webp",
+    "title": "Time Planner: Schedule & Tasks",
+    "companyName": "PlanPro",
+    "description": "Timetable, tasks and analytics in one view.",
+    "size": 37,
+    "reviews": 450,
+    "ratingAvg": 4.6,
+    "downloads": 1500000,
+    "ratings": [
+      {"name": "1 star", "count": 30},
+      {"name": "2 star", "count": 45},
+      {"name": "3 star", "count": 110},
+      {"name": "4 star", "count": 260},
+      {"name": "5 star", "count": 520}
+    ]
+  },
+
+  {
+    "id": 7,
+    "image": "../assets/demo-app (1).webp",
+    "title": "Focus Plant: Pomodoro Forest",
+    "companyName": "Greenify",
+    "description": "Grow trees by focusing and staying away from distractions.",
+    "size": 40,
+    "reviews": 780,
+    "ratingAvg": 4.8,
+    "downloads": 12000000,
+    "ratings": [
+      {"name": "1 star", "count": 60},
+      {"name": "2 star", "count": 90},
+      {"name": "3 star", "count": 240},
+      {"name": "4 star", "count": 280},
+      {"name": "5 star", "count": 310}
+    ]
+  },
+  {
+    "id": 8,
+    "image": "../assets/demo-app (2).webp",
+    "title": "Alarmy: Sleep If U Can",
+    "companyName": "DelightRoom",
+    "description": "Smart alarm clock that forces you to wake up fully.",
+    "size": 25,
+    "reviews": 500,
+    "ratingAvg": 4.4,
+    "downloads": 7000000,
+    "ratings": [
+      {"name": "1 star", "count": 80},
+      {"name": "2 star", "count": 120},
+      {"name": "3 star", "count": 240},
+      {"name": "4 star", "count": 420},
+      {"name": "5 star", "count": 850}
+    ]
+  },
+  {
+    "id": 9,
+    "image": "../assets/demo-app (3).webp",
+    "title": "Tide: Focus, Sleep, Relax",
+    "companyName": "Moreless",
+    "description": "Nature sounds with focus and sleep timers.",
+    "size": 33,
+    "reviews": 880,
+    "ratingAvg": 4.7,
+    "downloads": 9000000,
+    "ratings": [
+      {"name": "1 star", "count": 100},
+      {"name": "2 star", "count": 160},
+      {"name": "3 star", "count": 220},
+      {"name": "4 star", "count": 340},
+      {"name": "5 star", "count": 1060}
+    ]
+  },
+  {
+    "id": 10,
+    "image": "../assets/demo-app (4).webp",
+    "title": "Taskito: Task Planner",
+    "companyName": "Taskito Labs",
+    "description": "Tasks, reminders and timeline-based planning.",
+    "size": 29,
+    "reviews": 320,
+    "ratingAvg": 4.5,
+    "downloads": 1200000,
+    "ratings": [
+      {"name": "1 star", "count": 40},
+      {"name": "2 star", "count": 70},
+      {"name": "3 star", "count": 160},
+      {"name": "4 star", "count": 260},
+      {"name": "5 star", "count": 380}
+    ]
+  },
+  {
+    "id": 11,
+    "image": "../assets/demo-app (5).webp",
+    "title": "SleepTown: Sleep Better",
+    "companyName": "SeekrTech",
+    "description": "Build a virtual town by sleeping on time.",
+    "size": 31,
+    "reviews": 620,
+    "ratingAvg": 4.6,
+    "downloads": 4000000,
+    "ratings": [
+      {"name": "1 star", "count": 50},
+      {"name": "2 star", "count": 70},
+      {"name": "3 star", "count": 180},
+      {"name": "4 star", "count": 280},
+      {"name": "5 star", "count": 420}
+    ]
+  },
+  {
+    "id": 12,
+    "image": "../assets/demo-app (6).webp",
+    "title": "Focus Quest: Study RPG",
+    "companyName": "LunaWorks",
+    "description": "Gamified study timer with character leveling.",
+    "size": 36,
+    "reviews": 450,
+    "ratingAvg": 4.8,
+    "downloads": 2500000,
+    "ratings": [
+      {"name": "1 star", "count": 25},
+      {"name": "2 star", "count": 40},
+      {"name": "3 star", "count": 80},
+      {"name": "4 star", "count": 220},
+      {"name": "5 star", "count": 420}
+    ]
+  },
+  {
+    "id": 13,
+    "image": "../assets/demo-app (1).webp",
+    "title": "Zen Mode: Deep Work",
+    "companyName": "CalmWare",
+    "description": "Distraction blocker with Pomodoro and analytics.",
+    "size": 30,
+    "reviews": 380,
+    "ratingAvg": 4.6,
+    "downloads": 2000000,
+    "ratings": [
+      {"name": "1 star", "count": 20},
+      {"name": "2 star", "count": 50},
+      {"name": "3 star", "count": 100},
+      {"name": "4 star", "count": 160},
+      {"name": "5 star", "count": 250}
+    ]
+  },
+  {
+    "id": 14,
+    "image": "../assets/demo-app (2).webp",
+    "title": "Habitify: Build Habits Easily",
+    "companyName": "Habitify",
+    "description": "Track and visualize your daily habits.",
+    "size": 27,
+    "reviews": 760,
+    "ratingAvg": 4.5,
+    "downloads": 6700000,
+    "ratings": [
+      {"name": "1 star", "count": 90},
+      {"name": "2 star", "count": 110},
+      {"name": "3 star", "count": 210},
+      {"name": "4 star", "count": 320},
+      {"name": "5 star", "count": 450}
+    ]
+  },
+  {
+    "id": 15,
+    "image": "../assets/demo-app (3).webp",
+    "title": "Routinery: Self-care Routines",
+    "companyName": "Routinery Inc.",
+    "description": "Structure your daily life with guided routines.",
+    "size": 28,
+    "reviews": 650,
+    "ratingAvg": 4.7,
+    "downloads": 8900000,
+    "ratings": [
+      {"name": "1 star", "count": 60},
+      {"name": "2 star", "count": 70},
+      {"name": "3 star", "count": 140},
+      {"name": "4 star", "count": 260},
+      {"name": "5 star", "count": 540}
+    ]
+  },
+  {
+    "id": 16,
+    "image": "../assets/demo-app (4).webp",
+    "title": "ToDoist: Organize Tasks",
+    "companyName": "Doist Inc.",
+    "description": "The ultimate task manager for work and life.",
+    "size": 35,
+    "reviews": 700,
+    "ratingAvg": 4.8,
+    "downloads": 10000000,
+    "ratings": [
+      {"name": "1 star", "count": 70},
+      {"name": "2 star", "count": 100},
+      {"name": "3 star", "count": 240},
+      {"name": "4 star", "count": 400},
+      {"name": "5 star", "count": 600}
+    ]
+  },
+  {
+    "id": 17,
+    "image": "../assets/demo-app (5).webp",
+    "title": "Focus Timer Pro",
+    "companyName": "PremiumSoft",
+    "description": "Pomodoro timer with session stats and focus music.",
+    "size": 25,
+    "reviews": 480,
+    "ratingAvg": 4.6,
+    "downloads": 3700000,
+    "ratings": [
+      {"name": "1 star", "count": 40},
+      {"name": "2 star", "count": 60},
+      {"name": "3 star", "count": 120},
+      {"name": "4 star", "count": 260},
+      {"name": "5 star", "count": 360}
+    ]
+  },
+  {
+    "id": 18,
+    "image": "../assets/demo-app (6).webp",
+    "title": "Planner Pro: Daily Goals",
+    "companyName": "AppMart",
+    "description": "Smart daily planner for goal setting & time tracking.",
+    "size": 40,
+    "reviews": 520,
+    "ratingAvg": 4.7,
+    "downloads": 2400000,
+    "ratings": [
+      {"name": "1 star", "count": 35},
+      {"name": "2 star", "count": 60},
+      {"name": "3 star", "count": 130},
+      {"name": "4 star", "count": 230},
+      {"name": "5 star", "count": 410}
+    ]
+  },
+  {
+    "id": 19,
+    "image": "../assets/demo-app (1).webp",
+    "title": "LifeUp: Gamify Productivity",
+    "companyName": "LifeUp Studio",
+    "description": "Turn real life goals into RPG missions.",
+    "size": 29,
+    "reviews": 670,
+    "ratingAvg": 4.8,
+    "downloads": 1800000,
+    "ratings": [
+      {"name": "1 star", "count": 40},
+      {"name": "2 star", "count": 70},
+      {"name": "3 star", "count": 150},
+      {"name": "4 star", "count": 260},
+      {"name": "5 star", "count": 480}
+    ]
+  },
+  {
+    "id": 20,
+    "image": "../assets/demo-app (2).webp",
+    "title": "TickTick: Tasks & Calendar",
+    "companyName": "Appest Inc.",
+    "description": "Plan, organize, and track your productivity.",
+    "size": 27,
+    "reviews": 860,
+    "ratingAvg": 4.7,
+    "downloads": 13000000,
+    "ratings": [
+      {"name": "1 star", "count": 80},
+      {"name": "2 star", "count": 120},
+      {"name": "3 star", "count": 220},
+      {"name": "4 star", "count": 350},
+      {"name": "5 star", "count": 700}
+    ]
+  }
+]
